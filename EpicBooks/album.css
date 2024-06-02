@@ -1,0 +1,92 @@
+.jumbotron {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.nav {
+  top: 10px;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron h1 {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+.card img {
+  aspect-ratio: 1/1.7;
+  object-fit: cover;
+  width: 100%;
+}
+
+.bi-journal-bookmark-fill:hover {
+  fill: #0b5ed7;
+  width: 30px;
+  height: 30px;
+}
+
+.bi-cart4:hover {
+  fill: #0b5ed7;
+  width: 30px;
+  height: 30px;
+}
+
+#carrello {
+  position: relative;
+}
+.badge {
+  position: relative;
+  top: -10px;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: 0.25rem;
+}
+
+.btn-primary {
+  border-radius: 25%;
+  font-size: smaller;
+}
+
+.btn-secondary {
+  border-radius: 25%;
+  font-size: smaller;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.Loghi {
+  cursor: pointer;
+}
